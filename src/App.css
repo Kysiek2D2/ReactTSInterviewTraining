@@ -37,6 +37,10 @@
   padding: 2em;
 }
 
+.redButton {
+  color: #dc1c1c
+}
+
 .read-the-docs {
   color: #888;
 }
